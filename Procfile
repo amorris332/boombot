@@ -1,1 +1,1 @@
-web: node bin/boombot
+worker: node bin/boombot
