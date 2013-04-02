@@ -13,11 +13,11 @@
   "queue" : true,
   "consolelog" : true,
   "moderatorControl" : true,
-  "moderatorChat" : false,
+  "moderatorChat" : true,
   "stats" : true,
   "responses" :
   {
-    "rules": "There is only one rule. I RULE! OK 2 rules: the lame button does exist, but don't ever touch it.You've been warned...",
+    "rules": "Don't be an asshole.",
     "botwelcome": "WHO DARES SUMMON THE BOOMBOT?!",
     "adminwelcome": "My master has arrived!",
     "modwelcome": "Welcome back XXX.",
@@ -37,7 +37,7 @@
     "notinroom": "You can't join the queue if you're not in the room!",
     "alreadyinq": "You're already in the queue, idiot.",
     "freeforall": "free for all, hop up!",
-    "blacklisted": "You were blacklisted. Welcome to the lobby.",
+    "blacklisted": "You were banned. Welcome to the lobby.",
     "unnamedlame": "Ouch. Someone thinks you're lame.....",
     "namedlame": "XXXX thinks your song sucks..",
     "booteduser": "So glad they are gone.....",
